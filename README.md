@@ -10,10 +10,8 @@ Hi, I'm Zahirul Islam.<br><br>I am a highly skilled and experienced web designer
    <li>Excellent communication and problem-solving skills                  </li>
    <li>Ability to work independently and as part of a team                 </li>
 
-
-
 ## Here are some of the services that I offer:
-<br><br>
+
 
 <li>Web design                                                      </li>
 <li>Web development                                                 </li>
