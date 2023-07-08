@@ -12,7 +12,10 @@ Hi, I'm Zahirul Islam.<br><br>I am a highly skilled and experienced web designer
 
 
 
-<br><br>Expert in WordPress and Shopify<br>Over 350+ completed projects<br>Certified Professional Web Designer and Developer<br>Strong understanding of HTML, CSS, JavaScript, and PHP<br>Experience with a variety of web development frameworks and tools<br>Excellent communication and problem-solving skills<br>Ability to work independently and as part of a team<br>Here are some of the services that I offer:<br><br>Web design<br>Web development<br>WordPress development<br>Shopify development<br>Customization of any WordPress Themes and Plugins<br>PSD to HTML conversion<br>HTML from Figma conversion<br>Responsive design<br>SEO optimization<br>Google Analytics integration<br>Website maintenance and support<br>If you are interested in working with me, please feel free to contact me through my GitHub profile or my website. I would be happy to discuss your project and see how I can help you achieve your goals.<br><br>Thank you for your time.
+## Here are some of the services that I offer:
+<br><br>
+
+Web design<br>Web development<br>WordPress development<br>Shopify development<br>Customization of any WordPress Themes and Plugins<br>PSD to HTML conversion<br>HTML from Figma conversion<br>Responsive design<br>SEO optimization<br>Google Analytics integration<br>Website maintenance and support<br>If you are interested in working with me, please feel free to contact me through my GitHub profile or my website. I would be happy to discuss your project and see how I can help you achieve your goals.<br><br>Thank you for your time.
 
 
 ## 🌐 Socials:
