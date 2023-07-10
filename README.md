@@ -40,6 +40,6 @@ Hi, I'm Zahirul Islam.<br><br>I am a highly skilled and experienced web designer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=developer-zahir&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-zahir&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  -->
-![GitHub followers](https://img.shields.io/github/followers/:developer-zahir)
+![GitHub followers](https://img.shields.io/github/followers/developer-zahir)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
