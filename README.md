@@ -12,6 +12,7 @@ If you need a professional web developer who can help you build a website that s
 Let’s work together to create a stunning online presence that will attract and engage your target audience. Your success is my goal and I am eager to work with you to achieve your online objectives.
 
 <br>
+
 ### ✅ Here are some of my skills and experience:
 <hr>
    <li>Expert in WordPress and Shopify                                     </li>
