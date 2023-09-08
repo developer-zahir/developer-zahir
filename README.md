@@ -1,7 +1,17 @@
 # 💫 About Me:
 ![Developer Zahir](https://raw.githubusercontent.com/developer-zahir/developer-zahir/main/developer%20%20zahir.jpeg)
 
-Hi, I'm Zahirul Islam.<br><br>I am a highly skilled and experienced web designer and developer with a deep understanding of the latest web technologies. I have over 350+ completed projects in WordPress and Shopify, and I am always up-to-date on the latest trends and technologies.<br><br>I am a reliable and professional freelancer who delivers high-quality work on time and within budget. I am also very responsive to feedback, and I am always willing to make changes to my designs and development work to meet the needs of my clients.<br><br>I am passionate about creating beautiful and functional websites that meet the needs of my clients. I am also committed to providing excellent customer service and support.<br><br>If you are looking for a professional web designer and developer who can help you create a website that you will be proud of, then I am the perfect choice for you.<br><br>
+Hi,
+I'm Zahirul Islam 
+I am a professional web designer and developer with more than 3 years of  freelancing experience. I have expertise in various web technologies, such as WordPress, Shopify, Wix, Squarespace, and the MERN stack.
+
+Web design and development is my passion and I constantly learn new skills and technologies to improve my craft. I am a trustworthy and skilled web developer who can create beautiful and functional websites for any purpose. I am also a good communicator and I always strive to exceed the expectations of my clients.
+
+If you need a professional web developer who can help you build a website that suits your needs, then you have come to the right place.
+
+Let’s work together to create a stunning online presence that will attract and engage your target audience. Your success is my goal and I am eager to work with you to achieve your online objectives.
+
+<br><br>
 ### ✅ Here are some of my skills and experience:
 <hr>
    <li>Expert in WordPress and Shopify                                     </li>
