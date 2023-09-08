@@ -2,7 +2,7 @@
 ![Developer Zahir](https://raw.githubusercontent.com/developer-zahir/developer-zahir/main/developer%20%20zahir.jpeg)
 
 Hi,
-I'm Zahirul Islam 
+I'm Zahirul Islam <br>
 I am a professional web designer and developer with more than 3 years of  freelancing experience. I have expertise in various web technologies, such as WordPress, Shopify, Wix, Squarespace, and the MERN stack.
 
 Web design and development is my passion and I constantly learn new skills and technologies to improve my craft. I am a trustworthy and skilled web developer who can create beautiful and functional websites for any purpose. I am also a good communicator and I always strive to exceed the expectations of my clients.
