@@ -10,6 +10,6 @@ Web design and development is my passion and I constantly learn new skills and t
 If you need a professional web developer who can help you build a website that suits your needs, then you have come to the right place.
 
 Let’s work together to create a stunning online presence that will attract and engage your target audience. Your success is my goal and I am eager to work with you to achieve your online objectives.
-<br>
-
+<be>
+<hr>
 <br>If you are interested in working with me, please feel free to contact me through my GitHub profile or my website. I would be happy to discuss your project and see how I can help you achieve your goals.<br><br>Thank you for your time.
