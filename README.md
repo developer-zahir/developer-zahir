@@ -15,3 +15,7 @@ Let us collaborate to establish a striking online presence that captivates and e
 Best regards, <br>
 Developer zahir <br>
 https://developerzahir.com
+<br>
+<br>
+![Visitor Count](https://profile-counter.glitch.me/developer-zahir/count.svg)
+
