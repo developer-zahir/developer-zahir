@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Developer Zahir](https://raw.githubusercontent.com/developer-zahir/developer-zahir/main/developer%20%20zahir.jpeg)
+![Developer Zahir](https://github.com/developer-zahir/developer-zahir/blob/main/developer%20zahir%20banner%20image.png)
 
 Hi 👋, <br>
 I'm Zahirul Islam, a seasoned web designer and developer with over three years of freelancing experience. My expertise spans across a range of web technologies, including WordPress, Shopify, Wix, Squarespace, and the MERN stack.
@@ -12,6 +12,6 @@ If you are seeking a professional web developer to assist you in creating a webs
 
 Let us collaborate to establish a striking online presence that captivates and engages your target audience. Your success is my primary objective, and I am enthusiastic about partnering with you to realize your online goals.
 
-Best regards,
-Developer zahir
+Best regards, <br>
+Developer zahir <br>
 https://developerzahir.com
