@@ -1,42 +1,33 @@
-👋 Welcome to My GitHub Profile!
+# 💫 Hey there, I'm Zahirul Islam!
+![Developer Zahir Banner](https://github.com/developer-zahir/developer-zahir/blob/main/developer%20zahir%20banner%20image.png)
 
-💫 About Me
-Hi, I'm Zahirul Islam, a passionate and professional Web Designer and Developer with over 4 years of experience. I’ve successfully delivered 350+ websites for both local and international clients. My expertise lies in crafting visually stunning and highly functional websites that empower businesses to thrive online.
-🔧 My Tech Stack
-I specialize in:
+I'm a **professional Web Designer & Developer** with 4+ years of hands-on experience, having built **350+ websites** for local and international clients. My mission? Deliver sleek, responsive, and conversion-friendly websites that empower businesses to grow and shine online.
 
-WordPress, Shopify, Wix, and Squarespace for seamless CMS-based solutions.
-MERN Stack (MongoDB, Express.js, React, Node.js) for custom, scalable web applications.
-Frontend: HTML, CSS, JavaScript, React, Tailwind CSS.
-Backend: Node.js, Express.js, MongoDB.
-Tools: Git, Webpack, Figma, and more.
+---
 
-🤝 My Approach
-I believe in effective communication and building strong client relationships. My process includes:
+## 💼 What I Do Best
 
-Listening to your needs and goals.
-Providing regular updates throughout the development process.
-Delivering pixel-perfect, user-friendly, and responsive websites tailored to your vision.
+- ⚡ WordPress, Shopify, Wix & Squarespace
+- 💻 MERN Stack Applications
+- 🛠️ Pixel-perfect design with functional development
+- 🚀 Speed optimization, SEO-friendly builds & seamless UX
 
-If you’re looking for a reliable, creative, and results-driven web developer, I’m your guy! Let’s bring your ideas to life.
+---
 
-🌟 Why Work With Me?
+## 🧠 What Sets Me Apart
 
-Proven Track Record: 350+ successful projects and counting.
-Client-Centric: Your satisfaction is my priority.
-Versatile Skill Set: From e-commerce to custom web apps, I’ve got you covered.
-Remote & Freelance Ready: Available for projects worldwide.
+- ✨ Passion for clean, modern aesthetics
+- 🔍 Detail-oriented approach with consistent client feedback loops
+- 🤝 Clear communication & on-time delivery
+- 💡 Branding-focused, culturally resonant design
 
+---
 
-📈 Portfolio & Contact
-Explore my work at developerzahir.com and schedule a free consultation to discuss your next project. I’m excited to collaborate and deliver exceptional results!
-📧 Email: [Your Email Here]💼 Freelance: Open to freelance projects and remote opportunities.
+## 📬 Let's Build Something Great!
 
-📊 GitHub Stats
+If you're looking for a dependable, creative, and skilled web developer who cares about your goals as much as you do, I’m your guy.
 
+🔗 **Portfolio:** [developerzahir.com](https://developerzahir.com)  
+📬 **Available for Freelance & Remote Projects**
 
-
-👀 Visitor Count
-
-
-“Code is poetry, and I’m here to write your next masterpiece.”Let’s build something amazing together! 🚀
+![Visitor Count](https://profile-counter.glitch.me/developer-zahir/count.svg)
