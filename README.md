@@ -35,7 +35,7 @@ I'm a **professional Web Designer & Developer** with 4+ years of hands-on experi
 
 ### ⚙️ Custom Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,express,mongodb,vscode,figma,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,firebase,nodejs,express,mongodb,postman,git,vscode,figma,notion" />
 </p>
 
 ---
