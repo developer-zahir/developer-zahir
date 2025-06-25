@@ -1,103 +1,16 @@
+# 💫 About Me:
+![Developer Zahir](https://github.com/developer-zahir/developer-zahir/blob/main/developer%20zahir%20banner%20image.png)
 
+Hi, I'm Zahirul Islam, a professional web designer and developer with over 3 years of experience. I specialize in WordPress, Shopify, Wix, and Squarespace, and I'm passionate about creating beautiful and functional websites that help businesses grow.
 
-  
-    
-  
+I understand the importance of effective communication and building strong relationships with my clients. I'll listen to your requirements and provide regular updates throughout the development process to ensure that you're satisfied with the results.
 
+If you're looking for a reliable and talented web developer to create a website that aligns with your goals, I'm your guy. I'm excited to work with you and deliver exceptional results.
 
+Visit my website at https://developerzahir.com to learn more about my services and to schedule a free consultation.
 
-Hi, I am Zahirul Islam
-A Dedicated Full-Stack Developer & WordPress Expert from Bangladesh 🇧🇩
+<br>
+<br>
 
-
-  I’m Developer Zahir, a professional web developer with over five years of experience, committed to crafting exceptional, user-friendly websites that help businesses succeed online. Since starting my freelancing journey in 2020, I’ve completed over 100 projects for clients worldwide, specializing in WordPress, Shopify, Wix, and Squarespace. After earning my Computer Science Diploma in 2024, I expanded my expertise to include the MERN stack (MongoDB, Express.js, React, Node.js), enabling me to build modern, scalable web applications. I prioritize clear communication, ensuring I understand your needs and provide regular updates to deliver results that exceed expectations. Visit developerzahir.com to explore my services or reach out at contact@developerzahir.com for a free consultation—I’m excited to bring your vision to life!
-
-
-
-  - 🔭 I’m working on innovative MERN stack projects to enhance my development skills.
-  - 🌱 I’m continuously learning new technologies to deliver cutting-edge solutions.
-  - 💼 I’m open to freelance opportunities to create impactful websites and applications.
-  - 💬 Feel free to ask me about React, Node.js, WordPress, or Shopify.
-  - 📫 Reach me at: contact@developerzahir.com
-
-
-
-
-  Connect with me:
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
-  
-    
-  
-
-
-
-
-💻 My Tech Stack & Tools
-
-
-  Frontend Development:
-  
-    
-  
-
-
-
-  Backend Development:
-  
-    
-  
-
-
-
-  Database & Authentication:
-  
-    
-  
-
-
-
-  CMS & Page Builders:
-  
-    
-  
-
-
-
-  Tools & Others:
-  
-    
-  
-
-
-
-
-📊 My GitHub Stats
-
-  
-    
-  
-  
-
-  
-    
-  
-   
-  
-    
-  
-
-
-
-
-  
-
+![Visitor Count](https://profile-counter.glitch.me/developer-zahir/count.svg)
 
