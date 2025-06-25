@@ -33,9 +33,14 @@ I'm a **professional Web Designer & Developer** with 4+ years of hands-on experi
   <img src="https://github.com/developer-zahir/developer-zahir/raw/main/squarespace.png" height="40" />
 </p>
 
-### ⚙️ Custom Development  
+### 🛠️ Custom Web Development  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,firebase,nodejs,express,mongodb,postman,git,vscode,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,firebase,nodejs,express,mongodb" />
+</p>
+
+### ⚙️ Dev Tools & Utilities   
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,git,vscode,figma,notion" />
 </p>
 
 ---
