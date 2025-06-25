@@ -1,33 +1,75 @@
-# 💫 Hey there, I'm Zahirul Islam!
-![Developer Zahir Banner](https://github.com/developer-zahir/developer-zahir/blob/main/developer%20zahir%20banner%20image.png)
+# 💫 Hi there! I'm Zahirul Islam
+![Banner](https://github.com/developer-zahir/developer-zahir/blob/main/developer%20zahir%20banner%20image.png)
 
-I'm a **professional Web Designer & Developer** with 4+ years of hands-on experience, having built **350+ websites** for local and international clients. My mission? Deliver sleek, responsive, and conversion-friendly websites that empower businesses to grow and shine online.
+📍 Barishal, Bangladesh  
+📧 developerzahir@gmail.com
 
----
-
-## 💼 What I Do Best
-
-- ⚡ WordPress, Shopify, Wix & Squarespace
-- 💻 MERN Stack Applications
-- 🛠️ Pixel-perfect design with functional development
-- 🚀 Speed optimization, SEO-friendly builds & seamless UX
+I'm a **Web Designer & Developer** with 4+ years of experience and 350+ completed projects across global clients. I specialize in building high-performance websites using modern technologies that balance visual appeal and robust functionality.
 
 ---
 
-## 🧠 What Sets Me Apart
+## 🧩 About Me
 
-- ✨ Passion for clean, modern aesthetics
-- 🔍 Detail-oriented approach with consistent client feedback loops
-- 🤝 Clear communication & on-time delivery
-- 💡 Branding-focused, culturally resonant design
+I'm passionate about creating elegant digital experiences that help brands grow. With a strong background in **WordPress**, **Shopify**, **Wix**, and the **MERN Stack**, I focus on clean, futuristic UI and user-friendly functionality.
+
+### 🔍 Currently Working On
+- Building a tourism website for rural Bangladeshi destinations
+- Exploring advanced features of Next.js
+- Rebranding EstyBazar's digital presence
 
 ---
 
-## 📬 Let's Build Something Great!
+## 🚀 Skills & Technologies
 
-If you're looking for a dependable, creative, and skilled web developer who cares about your goals as much as you do, I’m your guy.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,wordpress,shopify,vscode,figma,github" />
+</p>
 
-🔗 **Portfolio:** [developerzahir.com](https://developerzahir.com)  
-📬 **Available for Freelance & Remote Projects**
+---
 
-![Visitor Count](https://profile-counter.glitch.me/developer-zahir/count.svg)
+## 🌐 Connect with Me
+
+- [🌐 Website](https://developerzahir.com)
+- [🔗 LinkedIn](https://www.linkedin.com/in/zahiruldev)
+- [🐦 Twitter](https://twitter.com/developerzahir)
+- [📘 Facebook](https://facebook.com/developerzahir)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developer-zahir&theme=default)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-zahir&layout=compact)
+
+---
+
+## 📌 Pinned Projects
+
+### 1. **EstyBazar - Modern E-Commerce Platform**
+> _An intuitive online marketplace for lifestyle goods_
+
+🔗 [Live Site](https://estybazar.com) | 🔍 React, Node.js, MongoDB  
+📦 Features: Authentication, Shopping Cart, Admin Dashboard  
+📁 Run Guide: `npm install && npm run dev`
+
+---
+
+### 2. **TravelVista - Tourism Website (Bangladesh)**
+> _Showcasing hidden gems through rich media and interactive maps_
+
+🔗 [Live Site](https://travelvista-bd.vercel.app) | 🔍 Next.js, Firebase  
+📦 Features: Blog Engine, Interactive Maps, Booking Forms  
+📁 Run Guide: `npm install && npm run dev`
+
+---
+
+### 3. **David Siracusa's Journey (Personal Branding Website)**
+> _A clean, scroll-synced layout to tell one man's global life story_
+
+🔗 [Live Site](https://davidsiracusa.vercel.app) | 🔍 HTML, CSS, JavaScript  
+📦 Features: Scroll Animation, Responsive Design  
+📁 Run Guide: `Open index.html`
+
+---
+
+Would you like me to help generate a suitable profile picture or polish the individual repository READMEs next? I’m ready when you are. 🔧
