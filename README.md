@@ -51,7 +51,7 @@ I'm a **professional Web Designer & Developer** with 4+ years of hands-on experi
 
 If you're looking for a dependable, creative, and skilled web developer who cares about your goals as much as you do, I’m your guy.
 
-🔗 **Portfolio:** [developerzahir.com](https://developerzahir.com)  
-📬 **Available for Freelance & Remote Projects**
+🔗 <strong>Portfolio:</strong> <a href="https://developerzahir.com" target="_blank" rel="noopener noreferrer">developerzahir.com</a>  
+📬 <strong>Available for Freelance & Remote Projects</strong>
 
 ![Visitor Count](https://profile-counter.glitch.me/developer-zahir/count.svg)
