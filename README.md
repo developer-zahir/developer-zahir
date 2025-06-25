@@ -36,7 +36,7 @@ I'm a **professional Web Designer & Developer** with 4+ years of hands-on experi
 ### 🛠️ Custom Web Development  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,firebase,nodejs,express,mongodb" />
-   <strong style="margin-left:10px;">🚧 Currently learning more exciting tools... stay tuned!</strong>
+  <br> <span>🚧 Currently learning more exciting tools... stay tuned!</span>
 </p>
 
 ### ⚙️ Dev Tools & Utilities   
