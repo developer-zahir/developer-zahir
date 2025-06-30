@@ -46,7 +46,8 @@ I'm a **professional Web Designer & Developer** with 3 years of hands-on experie
 </p>
 
 ---
-
+<p text-center>Happy Coding 😊</p>
+---
 ## 📬 Let's Build Something Great!
 
 If you're looking for a dependable, creative, and skilled web developer who cares about your goals as much as you do, I’m your guy.
