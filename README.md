@@ -58,6 +58,6 @@ If you're looking for a dependable, creative, and skilled web developer who care
 
 
 ---
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developer-zahir&bg_color=000000&color=ffffff&line=00df07&point=f0db4f&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developer-zahir&bg_color=000000&color=ffffff&line=dddddd&point=00df07&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
