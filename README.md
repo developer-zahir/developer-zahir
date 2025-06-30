@@ -46,8 +46,6 @@ I'm a **professional Web Designer & Developer** with 3 years of hands-on experie
 </p>
 
 ---
-<p text-center>Happy Coding 😊</p>
----
 ## 📬 Let's Build Something Great!
 
 If you're looking for a dependable, creative, and skilled web developer who cares about your goals as much as you do, I’m your guy.
@@ -58,6 +56,8 @@ If you're looking for a dependable, creative, and skilled web developer who care
 ![Visitor Count](https://profile-counter.glitch.me/developer-zahir/count.svg)
 
 
+---
+<p style="text-align: center;">Happy Coding 😊</p>
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developer-zahir&bg_color=151b23&color=ffffff&line=00f710&point=ffffff&area=true&hide_border=true)](https://github.com/developer-zahir)
 
