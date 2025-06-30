@@ -57,9 +57,7 @@ If you're looking for a dependable, creative, and skilled web developer who care
 ![Visitor Count](https://profile-counter.glitch.me/developer-zahir/count.svg)
 
 
---------------------------------------------------------------------
-
+---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developer-zahir&bg_color=0D1117&color=00FF00&line=FF0000&point=00FF00&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
--------------------------------------------------------------------
 
