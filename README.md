@@ -63,115 +63,31 @@ If you're looking for a dependable, creative, and skilled web developer who care
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developer-zahir&bg_color=151b23&color=ffffff&line=00f710&point=ffffff&area=true&hide_border=true)](https://github.com/developer-zahir)
 
 ---
-Website Summary
-A curated list of 20 websites with their CMS and URLs, showcasing various projects.
+# Website Portfolio
 
+Below is a selection of websites I've worked on, showcasing various CMS platforms and project types. This table highlights the first 20 projects, with more details available on my website.
 
+| SL | CMS        | URL                                                                 |
+|----|------------|--------------------------------------------------------------------|
+| 1  | Shopify    | https://goldtierstructures.com/                                     |
+| 2  | Shopify    | https://bic-auctions.myshopify.com/                                |
+| 3  | Shopify    | https://hello-apollo.myshopify.com/                                |
+| 4  | Shopify    | https://furnishrent.ae/                                            |
+| 5  | WordPress  | http://qrs.health/                                                 |
+| 6  | Shopify    | https://drinkcloudbrew.com/                                        |
+| 7  | Shopify    | https://www.yoga.health/                                           |
+| 8  | WordPress  | https://jovesisolidaris.org/                                       |
+| 9  | Shopify    | https://saycheesekit.com/                                          |
+| 10 | Shopify    | https://teaseme.co/                                                |
+| 11 | Shopify    | https://cozyfie.se/                                                |
+| 12 | Shopify    | https://magicity.tn/                                               |
+| 13 | Shopify    | https://a2227d-c2.myshopify.com/                                  |
+| 14 | Shopify    | https://lambadwear.myshopify.com/                                 |
+| 15 | Shopify    | https://www.medjooldays.com/                                       |
+| 16 | Wix        | https://www.justadriana.com/                                       |
+| 17 | Wix        | https://www.midway3pl.com/                                         |
+| 18 | Wix        | https://www.fitbodiesinc.com/hotels                                |
+| 19 | Squarespace | https://www.4thhousesun.com/energy-protection-guide               |
+| 20 | Squarespace | https://www.wineafterworkpod.com/                                 |
 
-SL
-CMS
-URL
-
-
-
-1
-Shopify
-https://goldtierstructures.com/
-
-
-2
-Shopify
-https://bic-auctions.myshopify.com/
-
-
-3
-Shopify
-https://hello-apollo.myshopify.com/
-
-
-4
-Shopify
-https://furnishrent.ae/
-
-
-5
-WordPress
-http://qrs.health/
-
-
-6
-Shopify
-https://drinkcloudbrew.com/
-
-
-7
-Shopify
-https://www.yoga.health/
-
-
-8
-WordPress
-https://jovesisolidaris.org/
-
-
-9
-Shopify
-https://saycheesekit.com/
-
-
-10
-Shopify
-https://teaseme.co/
-
-
-11
-Shopify
-https://cozyfie.se/
-
-
-12
-Shopify
-https://magicity.tn/
-
-
-13
-Shopify
-https://a2227d-c2.myshopify.com/
-
-
-14
-Shopify
-https://lambadwear.myshopify.com/
-
-
-15
-Shopify
-https://www.medjooldays.com/
-
-
-16
-Wix
-https://www.justadriana.com/
-
-
-17
-Wix
-https://www.midway3pl.com/
-
-
-18
-Wix
-https://www.fitbodiesinc.com/hotels
-
-
-19
-Squarespace
-https://www.4thhousesun.com/energy-protection-guide
-
-
-20
-Squarespace
-https://www.wineafterworkpod.com/
-
-
-See More
+[See More](https://developerzahir.com)
