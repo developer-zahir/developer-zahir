@@ -27,10 +27,10 @@ I'm a **professional Web Designer & Developer** with 3 years of hands-on experie
 
 ### 🧩 CMS Platforms  
 <p align="left">
-  <img src="https://github.com/developer-zahir/developer-zahir/raw/main/wordpress.png" height="45" />
-  <img src="https://github.com/developer-zahir/developer-zahir/raw/main/shopify.png" height="45" />
-  <img src="https://github.com/developer-zahir/developer-zahir/raw/main/wix.png" height="45" />
-  <img src="https://github.com/developer-zahir/developer-zahir/raw/main/squarespace.png" height="45" />
+  <img src="https://github.com/developer-zahir/developer-zahir/raw/main/wordpress.png" width="45" />
+  <img src="https://github.com/developer-zahir/developer-zahir/raw/main/shopify.png" width="45" />
+  <img src="https://github.com/developer-zahir/developer-zahir/raw/main/wix.png" width="45" />
+  <img src="https://github.com/developer-zahir/developer-zahir/raw/main/squarespace.png" width="45" />
 </p>
 
 ### 🛠️ Custom Web Development  
