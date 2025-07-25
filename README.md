@@ -1,7 +1,7 @@
 # 💫 Hey there, I'm Zahirul Islam!
 ![Developer Zahir Banner](https://github.com/developer-zahir/developer-zahir/blob/main/developer%20zahir%20banner%20image.png)
 
-I'm a **professional Web Designer & Developer** with 3 years of hands-on experience, having built **350+ websites** for local and international clients. My mission? Deliver sleek, responsive, and conversion-friendly websites that empower businesses to grow and shine online.
+I'm a **professional Web Designer & Developer** with 3 years of hands-on experience, having built **470+ websites** for local and international clients. My mission? Deliver sleek, responsive, and conversion-friendly websites that empower businesses to grow and shine online.
 
 ---
 
