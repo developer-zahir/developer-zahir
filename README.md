@@ -51,9 +51,10 @@ If you're looking for a dependable, creative, and skilled web developer who care
 
 🔗 <strong>Portfolio:</strong> <a href="https://developerzahir.com" target="_blank" rel="noopener noreferrer">developerzahir.com</a>  
 📬 <strong>Available for Freelance & Remote Projects</strong>
-
+<!--
 ![Visitor Count](https://profile-counter.glitch.me/developer-zahir/count.svg)
-
+-->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.developer-zahir)
 
 ---
 ---
